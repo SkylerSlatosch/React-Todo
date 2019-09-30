@@ -1,0 +1,20 @@
+
+.buttonB {
+    color:blue;
+    margin:1rem;
+}
+
+.buttonB:hover {
+    color:pink;
+}
+
+.inputB {
+    color:red;
+    height:2rem;
+    width: 9rem;
+    margin:3rem;
+}
+
+body {
+    background:purple;
+}
